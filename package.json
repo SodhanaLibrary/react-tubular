@@ -1,6 +1,6 @@
 {
   "name": "react-tubular",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Library To Make Youtube video as HTML page background",
   "main": "./lib/react-tubular.js",
   "scripts": {
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alicoding/react-webpack-babel"
+    "url": "https://github.com/SodhanaLibrary/react-tubular"
   },
-  "author": "Ali Al Dallal",
+  "author": "SodhanaLibrary",
   "license": "MIT",
-  "homepage": "https://github.com/alicoding/react-webpack-babel#readme",
+  "homepage": "https://github.com/SodhanaLibrary/react-tubular",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.3",
     "node-sass": "^3.10.1",
